@@ -1,0 +1,457 @@
+
+=== PAGE 1 ===
+ 
+TOPIC 8: THE GOLGI APPARATUS  
+1. The apparatus  
+1.1.Discovery  
+1.2.Structure  
+1.3. Functions  
+1.4.Movement of contents across the GA  
+2. Protein glycosylation in the GA  
+2.1. N- and O-glycosylations  
+2.2. GAG and PG synthesis in the GA  
+3. Controlling the final destination of proteins  
+4. Bidirectional communication between ER and Golgi  
+5. Lipid biosynthesis in the Golgi complex  
+6. Knowledge test 
+ 
+ 
+1. THE APPARATUS  
+1.1. Discovery  
+The Golgi apparatus: vital component of the endomembrane systems (important in vesicle 
+trafficking, it decides where vesicles will go). 
+ 
+ORIGIN 
+●​ It is named after Camillo Golgi (19th century) (he shared the Nobel prize with Ramón y Cajal) 
+who discovered it in 1898.  
+●​ He developed the silver impregnation technique: it involves the precipitation of specific 
+metals (silver metals) in the areas rich in the Golgi apparatus, allowing them to be stained 
+and visualised.  He used stained Spinal Ganglion neurons  
+ 
+In some Spinal ganglion neurons dark spots show silver precipitates (the Golgi Apparatus). 0 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+ 
+1.2. Structure  
+●​ Stack of membranous compartments (cisternae “cada uno de los saquitos”), independent 
+but pulled tight together. 
+●​ Stack of quite flat systems (cisternae) which are close to each other (tightly piled), but 
+not connected (they are independent).  
+●​ The golgi apparatus can be also called “Golgi complex” 
+ 
+Function: director of vesicle trafficking: 
+●​ It classifies and packs proteins in different outgoing vesicles (according to their final 
+destination) 
+●​ Considered as the director of vesicle trafficking. 
+ 
+PROCESS OF VESICLE TRAFFICKING (medio resumido) 
+1.​ It receives contents from the ER in the form of vesicles 
+2.​ Those vesicles fuse with the CIS side of the GA. 
+3.​ Then, they are delivered into more specific vesicles of the TRANS side.  
+4.​ By the time the products get out of the cell, they are classified according to their final 
+destination.  
+ 
+The components that are inside of the vesicles are highly altered by:  
+●​ Sulfatations 
+●​ Glycosylations  
+●​ Modifications… 
+ 
+This components will have different glycosylation patterns (added in the Golgi Apparatus) 
+depending on the destination of the vesicle carrying them.   
+ 
+By TEM we can see how the CIS side is convex and the TRANS concave. 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+1 
+CIS: Receives vesicles that fuse to each other 
+TRANS: Release the vesicles that already have sorted products and are ready to be delivered 
+to their targets 
+ 
+THE GOLGI NETWORK  
+The inside of these cisterns is called lumen.  
+The golgi apparatus will receive vesicles which come from the ER (endoplasmic reticulum). 
+●​ Cis-Golgi network (CGN): area formed by the vesicles that fuse with the CIS area. (These 
+vesicles come from the ER) 
+●​ Trans-Golgi network (TGN): Vesicles coming out of the TRANS area that will be delivered 
+to their final destination. 
+ 
+In the inside of the apparatus: those vesicles will have to cross those cisternae while some 
+reactions take place, helping the sorting and classification of the products into different vesicles 
+according to their final destination.  
+●​ Proteins will be glycosylated during their passage (proteins with a similar glycosylation 
+pattern will be stored in the same TGN vesicles) 
+Each cistern has a different glycosyl transfer reaction. Basically the GA is a giant sugar 
+transferring machine, because it adds sugar residues to different proteins.We can see which 
+enzymes are in each of the compartments.  
+ 
+1.3. Functions  
+The GA participates in:  
+●​ Lipid and glycolipid biosynthesis (particularly in sphingolipid synthesis) 
+●​ Protein glycosylation and modification. (Glycosylations pose the end of the 
+proteins’ maturation) 
+●​ Lysosomal biogenesis (lysosomes emerge from the trans Golgi side)  
+●​ Main function: Sorting of cargo proteins into different vesicles.  
+Cargo proteins: proteins which are transported from one organelle to another through 
+vesicles. 
+THE DIRECTOR OF INTRACELLULAR VESICLE TRAFICKING 
+The Golgi Apparatus is a polarized organelle because it has 2 sides: 
+●​ CIS side (convex side): the receptor of the products that come in from the ER, fusing with 
+the Cis area of the Golgi complex “Cis-Golgi network” (CGN) 
+●​ TRANS side: the “expulsor”, which means that products leave the GA from that side. 
+The products which enter the apparatus from the CIS side are not classified (the side where 
+products are incorporated is called Cis-Golgi Network or CGN).  
+ 
+
+=== PAGE 4 ===
+ 
+Vesicles which come out of the TRANS area (the part from which vesicles leave the GA is the 
+Trans-Golgi Network or TGN) are classified into different vesicles.  
+How? Thanks to the reactions which take place in the different compartments (cisternae) 
+and to the glycosylation patterns which are added to the products during these reactions 
+(these products will be embedded to the vesicular membrane).  
+GA is called the director of intracellular vesicle trafficking: thanks to the reactions which 
+take place there, vesicles will be classified depending on their final destination (depending 
+on their glycosylation pattern, realmente los que tienen estos patrones son las moléculas 
+que transportan). 
+Their glycosylation pattern will determine which receptors (specific for each pattern) will 
+bind. Consequently, different vesicles will form to transport them to their respective 
+destination. 
+Contents (ex. Cargo proteins) will be transferred progressively from one cistern to another 
+and, the ones leaving, are ready to deliver sorted products. Vesicles will deliver the material 
+by fusing their membranes.  
+By the time vesicles and products go out of the TRANS side: they are sorted out in different 
+vesicles due to their sugar pattern (glycosylations), which is distinguishable and identified by 
+different cells.  
+The vesicles leaving the TGN that will be transported to the same organelle: 
+●​ The components they have inside have similar modification patterns (sugar patterns, for 
+example) 
+The vesicles leaving the TGN that have different destinations: 
+●​ They have different sorted products (with different modification patterns) and they are 
+segregated in different vesicles. 
+2 
+ 
+
+=== PAGE 5 ===
+ 
+ 
+The most typical changes that take place in the GA to achieve the classification: 
+glycosylations. So we can say that proteins are heavily glycosylated here.  
+  
+Products which contain similar glycosylation patterns, will be stored in the same TGN 
+vesicles, and in consequence, will have the same destination.  
+ 
+There are 3 main destinations (TGN released vesicles):  
+● Secretory vesicles (go to plasma membrane):  
+○ Constitutive secretion: constantly exocyted without any control. It is an efficient 
+way to renew the plasma membrane.  
+○ Regulated secretion: vesicles are stored in the cytoplasm and wait for signals to 
+be released (neurons, neurotransmitters).  
+ 
+● Lysosomes: membrane compartment vesicles that contain high levels of hydrolytic 
+enzymes which contain the mannose-6-phosphate. Function: Degradation of 
+endocytic materials (intracellular digestion) 
+ 
+Mannose-6-phosphate: la “etiqueta” que se les añade a las enzimas hidrolíticas con 
+destino a lisosomas  
+ 
+● Retrograde transport vesicles: they go back to the CIS golgi network (CGN) and to the 
+ER. Function: maintain the proteins which fulfill their function in the ER.  
+ 
+Once translation occurs in the ER, the proteins do not stay there, they must undergo 
+the last changes in the Golgi Apparatus. So once the protein has been properly 
+modified, it will go back to the ER in vesicles. (In retrograde transport) 
+Golgi apparatus is compartmentalized. This means that some sequential enzymatic 
+reactions will take place in different cisternae (each of the sacs of the Golgi Apparatus).  
+There are different enzymes located in different cisternae.  
+●​ The tagging of glycosylated enzymes happens in the CIS side.  
+●​ Products leaving the TGN are already sorted (or classified) according to their final 
+ 
+
+=== PAGE 6 ===
+ 
+destination.   
+The glycosylation is performed by glycosyl transferase enzymes, which add sugars to the 
+proteins. These sugars can be: glucosamine, galactose…  
+ 
+ 
+ 
+
+=== PAGE 7 ===
+ 
+ 
+1.4. Movement of contents across the GA : transfer of membranes 
+There are 2 mechanisms which coexist:  
+ 
+1. CISTERNAL MATURATION MODEL  
+●​ The GA constantly receives new membranes from the ER (this means that it will be 
+continuously supplied with new membrane material). 
+ 
+This constant input leads to the formation of new membrane compartments (cisternae) that 
+fuse with the CIS face of the Golgi (CGN), which is therefore constantly being renewed.  
+ 
+As new cisternae form at the cis face, older ones are gradually displaced/pushed toward the 
+trans face. During this movement, each cisterna matures: 
+●​ It changes its protein and enzyme composition as it progresses from the cis to the trans 
+side.  
+●​ There is a net movement of contents.  
+This process has important implications (each cisternae contains a distinct set of enzymes 
+responsible for specific modifications of proteins and lipids): 
+●​ The cisternae themselves move forward: these resident enzymes must be recycled to 
+maintain the functional organization of the Golgi.  
+●​ This is achieved through retrograde transport, in which vesicles carry enzymes backward 
+(from later to earlier cisternae) allowing each compartment to retain its characteristic 
+enzymatic composition even as the membranes themselves mature and move forward.  
+**Resident proteins, therefore, must be retrotransported to keep their place in their appropriate 
+system. 
+Explicación más simple: según van madurando los compartimentos del AG por el movimiento 
+que se genera, las enzimas características de cada compartimento se mueven hacia atrás (sentido 
+contrario a la maduración de las cisternae), para que se mantenga cada enzima en su cisternae 
+correspondiente. 
+Este movimiento es retrograde transport  
+ 
+2. VESICLE TRANSPORT MODEL  
+ 
+Vesicles form and bud off at the edges of the Golgi apparatus. These vesicles transport 
+materials both forward (anterograde) and backward (retrograde) between Golgi 
+compartments.  
+ 
+ 
+
+=== PAGE 8 ===
+ 
+ 
+They shuttle contents from the trans side back to the cis side, or vice versa. Without this 
+lateral (se le llama lateral pero en verdad se refiere a lo de antes) transport, materials would 
+eventually be lost as new membranes push through the Golgi stack (this movement 
+corresponds to cisternae maturation model).  
+Retrograde transport is important because enzymes need to return to earlier Golgi 
+compartments to maintain proper function. This ensures the Golgi retains its specific 
+enzymatic composition despite the continuous movement of membranes.  
+BOTH MODELS COEXIST  
+ 
+2. PROTEIN GLYCOSYDATION IN THE GA  
+Glycosylation of proteins begins in the endoplasmic reticulum (ER) 
+The Golgi apparatus (GA) is mainly responsible for extensively modifying these glycosylation 
+patterns.  
+ 
+When proteins enter the cis-Golgi network (CGN): they all carry the same initial 
+oligosaccharide consisting of 14 sugar residues attached to asparagine (Asn) residues via 
+N-linked glycosylation.  
+By the time the proteins reach the cis face of the Golgi, only a central part of this 
+oligosaccharide remains, made up of 5 residues (de los 14 que había procedentes del RER, 
+solo se mantienen 5):  
+●​ 2 N-acetylglucosamines  
+●​ 3 mannoses.  
+This trimmed oligosaccharide is the basis for further modifications within the Golgi, which 
+ultimately determines the final destination of the protein.  
+There are two main glycosylation patterns on the Asn residues (these glycosylations attach to 
+the central part): 
+ 
+
+=== PAGE 9 ===
+ 
+ 
+- Complex glycosylation: Addition of various sugars to the central oligosaccharide (such as 
+galactose, N-acetylglucosamine, sialic acid, among others).  
+●​ These modifications direct proteins to different destinations, but most proteins 
+modified this way follow the secretory pathway (ending up as membrane 
+(constitutive) or secreted proteins (regulated)).  
+●​ The glycosylation patterns are highly variable and protein-specific.  
+ 
+- Mannose glycosylation: Only mannose residues are added to the central oligosaccharide. 
+Crucially, some of these mannoses are phosphorylated (mannose-6-phosphate).  
+●​ The mannose phosphorylation acts as a tag that directs the protein to lysosomes (Como 
+ponía en lysosomes), marking them as future lysosomal proteins. (key signal for lysosomal 
+targeting) 
+●​ This mannose phosphorylation is a HIGHLY SPECIFIC for lysosomal enzymes. 
+ 
+ 
+2.1. N- and O- glycosylations  
+Glycosylations can happen in two ways, and both can happen in the Golgi Apparatus:  
+- N glycosylations: sugars residues are 
+added through the nitrogen atom on 
+asparagine amino acids.  
+This glycosylation pattern is started in the 
+ER but then, these oligosaccharides are 
+lastly  modified in the GA.  
+ 
+
+=== PAGE 10 ===
+ 
+ 
+- O glycosylations: (highly specific of the GA) sugar residues are added to the O atom of 
+serine and threonine amino acids. This process is exclusive of the GA, so it begins and 
+ends there.  
+ 
+2.2. Glycosaminglycan and Proteoglycan synthesis in the GA  
+By adding sugars, the GA synthesizes essential components of the Extracellular Matrix. 
+These are secreted by constitutional secretion.  
+Between these components we have Glycosaminoglycans (GAG): 
+●​ Long chains of disaccharides repeated hundreds or thousands of times 
+●​ These molecules are polar, so they are hydrophilic and can be charged.  
+This is a representation of a GAG molecule  
+GAG can also be bound to proteins by O glycosylation (laterally or covalently), and in this 
+way, they create proteoglycans: small protein cord + glycosaminoglycans 
+ 
+ 
+
+=== PAGE 11 ===
+ 
+This is a drawing of PG.  
+●​ They are all heavily glycosylated.  
+●​ Because they are polar, they attract plenty of water, so extracellular tissue with 
+these structures contains a lot of water.  
+*Disaccharides that may be repeated a thousand of times; they can be very long. 
+THE ONLY EXCEPTION IS HYALURONIC ACID. (It is formed in the plasma membrane 
+instead of in AG) 
+3. CONTROLLING THE FINAL DESTINATION OF PROTEINS (most 
+important function)  
+Proteins which exit the TGN through vesicles have 3 different main destinations (esto ya se ha 
+explicado antes, pero más resumido):  
+● LYSOSOMES: vesicles containing hydrolytic enzymes which are rich in phosphorylated 
+mannose-6-phosphate.  
+There are mannose-6-phosphate specific receptors (in one side of the TGN) waiting for 
+the vesicles carrying mannose-6-phosphate groups, which acts as a tag. These 
+vesicles will then bud off to form new lysosomes. 
+● SECRETION VESICLES:  
+○ CONSTITUTIVE SECRETION VESICLES (they don’t rely in any signal):  
+●​ The default pathway.  
+●​ They are targeted directly to the plasma membrane  
+●​ There is no control of it, so they need no signal.  
+●​ They are constantly produced and getting out of the cell.  
+ 
+There are parts of transmembrane proteins that are facing the inside membrane of the 
+vesicle that will end up facing the outside of the plasma membrane.  
+Why? 
+When this vesicle fuses with plasma membrane the transmembrane proteins that 
+were facing will turn and face out. Which is why sugars are only found in the 
+extracellular part.    
+○ REGULATED SECRETION VESICLES:  
+●​ they also contain specifically sorted products 
+●​ they will be stored in the cytoplasm waiting for the release-signal.  
+●​ When this appears, this will trigger the fusion of these vesicles with the 
+plasma membrane to release these contents all at once.  
+ 
+
+=== PAGE 12 ===
+ 
+●​ Some of them are mannose-6-phosphate receptors.  
+ 
+● RETROGRADE TRANSPORT VESICLES: they go back to the Cis side of the Golgi 
+apparatus (TGN) to eventually reach the ER.  
+●​ They transport proteins which are needed in the ER. For example, chaperons 
+(important proteins which participate in the folding of proteins)  
+Classification of proteins through specific tags, according to their final destination (placed in 
+proteins) 
+In the case of lysosomal enzymes, these signals or tags are Mannose-6P. M6P receptors are 
+facing the luminal part of the TGN and will bind only to proteins containing mannose 6P. 
+Then, thanks to some specific coating proteins (clathrins) lysosomal vesicles will be created.  
+*mannose must be phosphorylated (creating Mannose-6P)  
+8 
+ 
+In this picture we can see M6P receptors which are facing the lumen of the TGN are only 
+binding to proteins which contain Mannose 6P (YELLOW). We can also see proteins leaving 
+the TGN which will follow the regulated secretion and will be stored in the cytoplasm until  
+the release signal arrives (PINK) and proteins which will follow the constitutive 
+secretory pathway and are directly leaving the cell (GREEN).  
+In the case of I cell disease, the mannose residue doesn't get properly phosphorylated. So 
+then, hydrolytic enzymes do not get correctly sorted out and they get released out of the 
+cell. This leads to the generation of some severe syndromes, basically because hydrolytic 
+enzymes are not properly driven to their destination (lysosomes).  
+ 
+
+=== PAGE 13 ===
+ 
+ 
+LYSOSOMAL BIOGENESIS IN THE TGN  
+In the Golgi Complex, this process consists of different phases (each of which is carried out in 
+different sides of the GA) 
+●​ CGN: addition of the signal for lysosomal sorting (addition and phosphorylation of 
+mannose) 
+●​ TGN: recognition of this signal (proteins which are rich in mannose-6-phosphate bind to 
+their specific receptors which are concentrated on specific sites of the TGN) 
+○​ The signal is recognised when binding to M6P receptors which will be 
+concentrated at specific sites of the TGN.  
+○​ Those receptors will be segregated to specific parts of the TGN. 
+○​ Clathrin usually associates with receptors and also assists the process of creating 
+vesicles and it makes membranes bend.  
+ 
+Many hydrolytic enzymes (vesicles) will fuse with each other to create primary 
+lysosomes: the lumen of lysosomes will be acidic.  
+●​ The acidification of the lysosomal lumen (because of the proton pumps) causes 
+the dissociation of the ligand and the receptors.  
+○​ Ligands (hydrolytic enzymes) will be concentrated in the lysosomal lumen. 
+○​ Receptors will be recycled back to the TGN to participate in the 
+recruitment of more hydrolytic enzymes.  
+So in conclusion, we can say that the creation of lysosomes all depends on the concentration 
+of lysosomal enzymes, as well as mannose-6-phosphate tags and MP6 receptors. Vesicles 
+budding assisted by clathrin. 
+ 
+In this picture the process of the creation of a primary lysosome is graphically explained.  
+ 
+ 
+
+=== PAGE 14 ===
+ 
+ 
+4. BIDIRECTIONAL COMMUNICATION BETWEEN ER AND GOLGI  
+Retrograde transport of products from GA to ER is possible.  As is the case of chaperones.  
+Retrograde transport vesicles: vesicles that will go through the whole GA back to the ER.  
+●​ Those vesicles will be transporting ER resident proteins.  
+●​ Proteins that get to the ER as their final destination are not synthesized and stay 
+in the ER for the whole time, they have to go to the GA, and then, they will have 
+to be retrieved back to the ER. We have 2 pathways (one forward and one 
+backwards): 
+  
+1.​ Forward pathway or anterograde transport (Anterograde Transport):  transport from the 
+ER to the Golgi. Vesicles which take part in this transport are called COPII vesicles. They 
+contain a specific coat (COP II) and go from the ER to the GA.  
+ 
+¿Qué es el “specific coat”? They mediate the formation of transport vesicles in the donor 
+compartment. (Está bien explicado en el tema 9) 
+ 
+2.​ Retrieval pathway or retrograde transport (Retrograde transport): consists of transport 
+from the GA back to the ER. The vesicles which take part are COP I vesicles. It is used for 
+the ER resident proteins. 
+**The retrieval of proteins is mediated by KDEL receptors in the TGN. Proteins that 
+need to be retrieved to the ER have a specific signal which consists of a short 
+strand of 4 amino acids (Lys-Asp-Glu-Leu). This way COPI vesicles will identify the 
+signal and take the protein back to the ER. It is a pH depending binding.  
+ 
+The role of COPI and COPII is to facilitate vesicle formation.  
+Yellow ones are secretory proteins and pink ones are ER resident proteins. Both proteins get 
+together in the COPII vesicles to the CIS Golgi part, but then in the GA, secretory vesicle will 
+be recognised and sent out by constitutive or regulated secretion. And ER proteins will be 
+recognised by specific receptors that are facing the lumen of the TGN. Those receptors are 
+called KDEL receptors. ER resident proteins will have a tag (KDEL) which consists of some 
+short strands of 4 Aa which are Lys-Asp-Glu-Leu (KDEL). This KDEL signal will be exclusively in 
+proteins which make part of the ER. Then, COPI vesicles containing KDEL receptors will bring 
+ 
+
+=== PAGE 15 ===
+ 
+these vesicles back to the ER from the TGN  
+5. LIPID BIOSYNTHESIS IN THE GOLGI COMPLEX  
+Sphingolipids are assembled in the GA. 
+Sphingolipids are created by: 
+●​ A ceramide (1 fatty acid + sphingosine): 
+○​ The ceramide is synthesized in the SER 
+○​ Gets translocated to the GA thanks to specific transporters.  
+○​ This ceramide does not travel in vesicles, it gets translocated specifically.  
+ 
+●​ Different polar groups (like sugars or phosphocholine).  
+○​ Once in the GA, this ceramide may undergo 2 types of modifications. 
+○​ The first modification: add sugars to it and generate sphingoglycolipids 
+(gangliosides and cerebrosides) 
+○​ Second one is: add phosphocholine creating sphingomyelin, which together with 
+the phosphatidylcholine, are the most abundant lipids in our membranes. 
+ 
+Shingoglycolipids and shingomyelin are both sphingolipids. 
+ 
+ 

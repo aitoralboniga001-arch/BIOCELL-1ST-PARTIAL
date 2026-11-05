@@ -1,0 +1,298 @@
+**BLOCK IV: THE ENDOMEMBRANE SYSTEM 
+**TOPIC 9: VESICULAR TRAFFICKING 
+**INDEX 
+**1. Introduction to vesicular trafficking 
+**2. Exocytic and Endocytic pathways 
+**2.1. Endocytic pathways 
+**2.2. Exocytic pathways 
+**3. Vesicular trafficking in multiple directions 
+**3.1. Vesicle formation control 
+**3.2. Vesicle delivery control 
+**4. Vesicle formation 
+**4.1. Protein coated vesicles 
+**4.2. Dynamic: vesicle pinching-off 
+**4.3. GTPase control of vesicle formation 
+**5. How vesicles reach their targets 
+**5.1. Rab GTP-ases 
+**5.1.1. What are they? 
+**5.1.2. How do Rab GTP-ases work? 
+**5.1.3. Rab members 
+**5.2. SNARE proteins 
+**6. Steps in vesicle formation, targeting, docking, fusion 
+**7. Toxins affecting SNARES and vesicle fusion 
+**7.1. BoTOX
+**8. Knowledge test
+**1. INTRODUCTION TO VESICULAR TRAFFICKING 
+It is important that the eukaryotic cells make sure that vesicles are transported to the adequate target compartments.
+Each transport situation involves:
+**Donor compartment: transfers contents to the target compartment (target membrane)
+**Target compartment/membrane: receives those contents
+Intermediate vesicles: synthesized in the membrane of the donor compartment and, once formed, they travel to the target compartment and fuse with it (by membrane fusion).
+In this picture we can see an abbreviated process of vesicular trafficking. 
+Different mechanisms participate to ensure the correct delivery of cargoes (contents) from one compartment to another. These mechanisms are: 
+1. Protein coats. These cytosolic proteins mediate the formation of transport vesicles in the donor compartment. This way, protein coats are polymerized at a specific membrane side of the donor compartment and, consequently, create the vesicle. 
+2. Rab GTP-ases. Once the vesicle is formed, Rab GTP-ases control the correct delivery by inserting into the membrane of the vesicle which lets them guide the vesicle through the cytoplasm to reach their target compartment or it finds a complementary receptor. 
+They are highly specific for each vesicle. 
+**3. SNARE proteins. They participate in the controlling of the fusion between vesicles and the target compartment. 
+Highly specific proteins.
+Present in both transport vesicles membrane and target compartment membrane (both of which may complement each other in order to let the fusion occur).
+**2. EXOCYTIC AND ENDOCYTIC PATHWAYS (vesicle movement direction)
+**Vesicular trafficking consists of a complex system of intracellular transport mediated by vesicles. 
+These intracellular vesicles transfer contents in two main directions:
+**The exocytic (also known as secretory) pathway 
+**The endocytic pathway. 
+**2.1 ENDOCYTIC PATHWAYS 
+**It is related to retrograde transport, which allows vesicles coming from the plasma membrane to reach endosomes. 
+Once the endocytic vesicle is formed: it pours its content into the early endosome, and vesicles may leave according to different fates: 
+Lysosomal pathway. It is a very typical fate and it consists of the fusion of endosomes with lysosomes, which will lead to the digestion of endosomal contents. 
+Recycling (and transcytosis). Some vesicles are released from endosomes back to the plasma membrane in order to recycle the membrane components such as receptors and will fuse again with the plasma membrane. 
+Ex. GLUT-4 receptors
+Depending on the membrane domain they fuse with:
+**Recycling, in the apical domain (same domain the vesicle originated from) 
+**Transcytosis in the basolateral domain (in a different domain that the vesicle originated from)
+Retrograde transport. Vesicles’ destination is the Golgi Apparatus (Trans Golgi Network) and, in some cases, it is possible that they even reach the endoplasmic reticulum, by retrograde transport vesicles. 
+***Se refiere al mismo retrograde transport del tema 8 (el del aparato de Golgi), pero en su sentido más amplio. En el retrograde transport del que se hablaba en el GA es como más “específico” (solo hablaba del transporte del GA al ER).
+**2.2. EXOCYTIC (SECRETORY) PATHWAYS 
+**This pathway corresponds to contents traveling outwards:
+**Being released from the cell to the outer media.
+It is related to anterograde transport (vesicles are transported from the Endoplasmic Reticulum to both Golgi Apparatus and plasma membrane)
+**Vesicles formed in the TGN (Trans Golgi Network) fuse with the plasma membrane in a process called exocytosis. 
+**Two pathways can be distinguished depending on the lasting of vesicles in cytoplasm: 
+**a. Constitutive secretion pathways.
+Takes place in all cells. 
+Vesicles are constantly being formed and immediately being released from the Trans Golgi Network to the plasma membrane. 
+**Way to renew the content of extracellular matrix proteins and plasma membrane proteins. 
+The parts of transmembrane proteins and lipids (glycosylated on the inside) that are facing the TGN lumen of the vesicle will end up facing the outside of the cell; when the vesicle fuses with the plasma membrane, parts facing the lumen will come to face the outside. 
+Example. Sugars, which are added in the luminal side of the Golgi Apparatus and, therefore, face the inner side of the vesicle. Once the vesicles fuse with the plasma membrane, sugars (glycolipids and glycoproteins) will face the outer side of the cell. This is the reason why sugars can only be found in the extracellular hemilayer of the plasma membrane. Vesicles will renew the membrane.
+**b. Regulated secretion pathways. 
+Non-continuous and very specific release. 
+**Regulated secretion vesicles are stored in the cytoplasm waiting for a releasing signal. 
+**Signal occurs: they have a massive release of all the vesicles at a time or at least not one by one. 
+**This is not a universal pathway; only certain cells can accomplish it (especially those with secretion functions)
+Cells with secretion functions: cells have very specific functions and need to be triggered by a signal that can be cytokines, hormones, neurotransmitters… 
+This signal is related to the accumulation of calcium in the intracellular medium. Calcium is the universal signal for exocytosis. (Especially in regulated secretion)
+**How do we identify a cell performing regulated secretion? 
+To identify a cell performing regulated secretion it is needed to verify whether the cell contains an accumulation of secretion vesicles or not in the cytoplasm. Many of the accumulated vesicles will be released together when the cell receives a trigger signal (stimulated).
+This image represents the activation and massive vesicle exocytosis in the mastocyte seen by TEM. This contains many factors stored in secretion vesicles accumulated in cytoplasm, waiting for the releasing signal. Once the cell is activated, all vesicles are simultaneously released to the outer media. 
+**3. VESICULAR TRAFFICKING IN MULTIPLE DIRECTIONS 
+There are many vesicles moving through the cytoplasm at the same time, and each of these need to reach the correct target compartment. 
+That is why cells carry out a series of mechanisms in order to ensure an appropriate delivery of vesicles. The formation of vesicles is highly regulated, and it is at different levels.
+**3.1. VESICLE FORMATION CONTROL 
+Vesicles:
+**Specific vesicles are formed in specific places of the donor compartment. 
+These compartments contain cargo receptors (in the outer side of the compartment) that will bind to specific ligands (molecules that will be endocyted).
+Cargo proteins: transmembrane / membrane-bound proteins that selectively bind specific molecules and connect them to coat proteins. They are concentrated in specific parts of the membrane.
+PROCESS: (teniendo en cuenta que es una endocitosis mediada por coat proteins)
+Cargo receptors bind to ligands (the molecules that will be transported)
+**Cargo receptors (bound to the ligand) will bind to specific adaptor proteins, which are cytosolic proteins.
+Adaptor proteins activate specific exchange factors (ex. GEFs)
+**GEFs activate membrane-bound GTP-ase proteins that reclute some vesicle protein coats. 
+Vesicle protein coats (ex. Clathrin) facilitate the formation of the vesicle, causing the membrane to bend and culminating with the formation of a vesicle. 
+Protein coats will only polymerize (meaning that these proteins assemble to invaginate the membrane) at the sides where GTP-ases are active (being active means that GTP-ases are bound to GTP). 
+*Protein coats when they polymerize they produce the bending of the membrane and formation of cytoskeleton.
+**3.2. VESICLE DELIVERY CONTROL 
+Once the vesicle is formed, there are three mechanisms to ensure that the vesicles are correctly delivered: 
+**a. Rab GTP-ases: Proteins 
+Specific for each vesicle 
+Can be bound either to GTP or GDP. 
+The activation of specific Rab GTP-ases only occurs in some specific vesicles (once they are active, Rab GTP-ases will insert in the membrane of the vesicle).
+**b. Effectors
+Once vesicles reach target compartments, membrane fusion must occur. 
+They are proteins that are present in the target compartment.
+They recognise the Rab-GTPases (consequently, the vesicle is recognised by the target compartment), allowing the fusion of the vesicle.
+**c. SNARE proteins. 
+These highly specific proteins
+They ensure that the appropriate vesicle fuses with the appropriate compartment. 
+They will regulate and catalyze the last step of the membrane fusion because they are present at the vesicle and the target membrane.
+**4. VESICLE FORMATION 
+**4.1. PROTEIN COATED VESICLES 
+Protein coats (cytosolic proteins) polymerize at specific sites of the donor compartment which are enriched in cargo receptors and adaptors. 
+**They facilitate vesicle formation at specific sites. 
+**They cause membranes to bend and pinch off, separating the vesicle from the membrane of the donor compartment. 
+When those coats polymerize in the membrane site enriched in membrane receptors and adaptors, they bend all of them together in the same vesicle.
+Once vesicles are formed, the coat disassembles (coat only keeps assembled for a few seconds) and monomers (proteins) are depolymerized.
+Result: naked vesicle which will bind to some receptors (of the target compartment). 
+The coat subunits are ready to polymerize another receptor. 
+1- Coat proteins assemble at the membrane.
+2- Coat proteins select the cargo that is packaged into forming the vesicle
+3- As more coat proteins are added, they shape the surrounding membrane into a sphere
+There are three types of coat proteins, which participate in the formation of different vesicles:
+**a. Clathrin coated vesicles. They participate in: 
+**Receptor mediated endocytosis
+Endosomal trafficking: The sorting of contents within endosomes. Different contents are segregated in different parts of the early endosome. In the case of some receptors, clathrin contributes to creating the vesicle that will transport them.
+**Regulated secretion: formation of regulated secretion vesicles and the presence of receptors is needed.
+**Lysosomal recycling of receptors 
+**Lysosomal biogenesis: some of clathrin coated vesicles will become lysosomes in the TGN. 
+Clathrin proteins get formed by the polymerization of its monomers/subunits, called triskelions (soluble cytosolic proteins that upon activation may assemble at specific membrane sites).
+**This polymerization is highly regulated: 
+It occurs only at sites enriched in receptors and adaptors, (they induce the polymerization of the triskelions) 
+Cell makes sure the vesicle will bring a  lot of ligands by concentrating ligands and receptors at specific sites. (where the vesicle is formed.)
+Ligands (particles) and receptors must bind with each other, which is why they are always in the same specific sites. 
+Explicación: El ligando se une al receptor, que a su vez se une al adaptador, que a su vez activa unos activadores. Estos activadores reclutan a las coat proteins para formar la vesícula.
+In the picture we see a concentration of ligands at a specific membrane site thanks to the presence of receptors, which are bound to adaptor proteins on the cytosolic side. Those adaptors cause triskelions to polymerize to help the generation of a new vesicle. The vesicle will finally separate from the donor compartment thanks to the action of another protein: dynamin (GTPase). Once a vesicle is formed the clathrin monomers disassemble and the vesicle is ready. In clathrin protein vesicles 2 sides can be distinguished: the receptor cargo complex side and the intracellular side.
+Clathrin coated vesicles are very abundant in eukaryotic cells and are being constantly produced (2500 vesicles per minute, depending on the cell type), but they also uncoat within seconds, shortly after vesicle formation. 
+These images represent the formation of a clathrin coated vesicle seen with TEM. On the right side Clathrin protein can be identified as the electrodense part surrounding the vesicle: polymerase clathrin coat. Lumen: Receptor and cargo coated side. Inside the vesicle (on the left side), we can distinguish numerous receptors and ligands. 
+**b. COP I coated vesicles. 
+**Vesicles are involved in retrograde transport through Golgi Apparatus back to endoplasmic reticulum
+In some cases they cause constitutive secretion (even if this type of secretion does not require COP I because new membranes are constantly being added to Golgi Apparatus so, as new membranes come in, old ones are being pushed out).
+**c. COP II coated vesicles. 
+**These are characteristic of anterograde transport.
+COP II participates in the formation of vesicles in the endoplasmic reticulum membrane, which will then transport contents to the Golgi Apparatus. 
+**d. Naked Vesicles: Follow pathway for constitutive secretion
+This image represents the different transport events in which each protein coated vesicle participates in. 
+These coats can be easily identified in TEM because they are very electrodense, so they appear as a “black ring” surrounding the vesicle. 
+**4.2.DYNAMIN: VESICLE PINCHING-OFF 
+Once the vesicle has an appropriate shape (thanks to coat proteins). 
+Dynamin protein (it is a GTP binding protein) constricts the neck of the vesicle, bringing both vesicle and donor compartment membrane together. 
+Dynamin oligomerizes, forming a helical collar surrounding the neck of the vesicle. It uses GTPhydrolysis. 
+This will eventually trigger membrane fusion and separation from the donor compartment. 
+**Necessary for final excision of vesicles.
+Dynamin is cytosolic but when it activates it interacts with membranes. 
+Protein coats induce membranes to bend and shape as a vesicle, then dynamin surrounds the neck of the vesicle, bringing the membranes together. This way the membranes fuse and separate from the donor compartment. 
+Dynamin works the same way with the 3 coat proteins (clathrin, COP I or COP II). The last step of scission will always be catalyzed by clathrin.
+**4.3 MOLECULAR SWITCHES PARTICIPATING IN VESICLE TRAFFICKING
+There are many GTPases involved (they interact with membranes). They are like molecular switchers (they switch between active and inactive states) (ON/OFF):
+Active state: they are bounded to GTP
+Inactive state: bounded to GDP
+The GTPases have intrinsic GTPase activity: the membrane is active to participate in vesicular processes. There are many GTPases that participate at many levels: 
+Vesicle excision (ex: dynamin is a small GTPase)
+Coat formation of COPI and COPII. (ex: SAR1, ARF) 
+Vesicle targeting (ex: Rabs; these are the most important in this domain, fundamental in vesicle delivery) 
+GTPases activate when binding to GTP, this process starts because of GEF (exchange factors), and then they will be active for a while until they hydrolyze to GDP.
+*Once activated, they only last for a moment because GTP will be hydrolyzed.
+**4.4. GTP-ase CONTROL OF VESICLE FORMATION 
+**Example: COP II vesicle formation. The formation of Clathrin, COP I and COP II vesicles is pretty similar. 
+**We will take as an example the formation of COPII: 
+COP II vesicle formation appears to proceed throughout the ER. In the membrane of this organelle, a set of cytoplasmic proteins, collectively known as the COP II coat, generates COP II vesicles throughout a sequence of events: 
+1. Firstly, cytosolic GTPases are activated. In the case of COPII the associated GTPases are from the Sar-1 family. These Sar-1 GTPases can be found in two states:
+**It can appear bound to GDP (inactive soluble cytosolic protein)
+**It can be bound to GTP (active protein). 
+2. In normal conditions, Sar-1 GTPase is bound to GDP. Therefore, the help of other proteins is needed so as to activate Sar-1. 
+There are some transmembrane proteins (GTPase exchanging factors (GEF)) found on the ER membrane that are responsible for exchanging GDP for GTP and so activating Sar-1 GTPase. 
+In this case, those factors are Guanine Exchanging Factors (GEFs). This activatory process will specifically happen on membrane sites where COP II vesicles will get formed. 
+3. Once Sar-1 GTPase is activated (bound to GTP), this protein undergoes a conformational change:
+In the GTPase, an hydrophobic domain which was hidden will get exposed. This hydrophobic tail will insert into the ER membrane. 
+**Recordatorio de que la GTPasa antes no se encontraba unida a la membrana. El que estaba unido era el exchange factor (GEF).
+4. The insertion of Sar-1 GTPase into the ER membrane (Active GTP-bound Sar)  will recruit cytosolic adaptor proteins (Sec 23 and Sec 24).
+5. Finally, COP II coat monomers will be recruited and polymerized (Sec 13 and Sec 31). 
+6. This process, polymerization of adaptors, will bring all the receptors and adaptors to specific sites where the vesicle is formed, as adaptors have receptor binding sites.
+It is important to consider that the formation of the COPII vesicle will only occur at the places where receptors and GTPase exchanging factors are present. 
+**Each donor compartment recruits a specific set of coats and adaptor proteins:
+GTP-ase activation (Sar 1, ARF, etc.) and binding of protein coat adaptors
+Adaptor binding (Sec23,24, AP1-adaptins, AP2-adaptins etc.) bringing together receptors and coat proteins.
+Polymerization of coat protein monomers (sec13,31, clatrin, coatomers, etc. ) at specific membrane sites, enriched in adaptors & receptor.
+However, for each vesicle type the donor compartment will have to recruit a set of coats and adaptor proteins, as shown in the following table (don’t need to know it by heart): 
+**5. HOW VESICLES REACH THEIR TARGETS 
+There are two regulated mechanisms that play a role: 
+Rab GTP-ases (associated with vesicles): principal mechanism in which eukaryotic cells guide vesicles to their target destinations, by binding to specific Rab effectors. 
+SNARE proteins: they mediate the final step of  fusion between the vesicle and the target membranes. (Catalyze the final step).
+**5.1. Rab GTP-ases: controlling vesicle delivery
+**5.1.1. What are they? 
+Rab GTP-ases are cytosolic proteins (function as tags) that can cycle between inactive and active states by the exchange of GTP and GDP at specific membrane sites (highly specific).
+When Rabs are inactive (GDP): soluble cytosolic proteins. 
+When Rabs are active (GTP): expose hydrophobic prenyl groups, and bind to the vesicle membrane. 
+***Son del grupo de las GTPasas en general que hemos visto antes, por lo que tienen el mismo mecanismo de función (lo del cambio conformacional y así).
+GTPases (Sar1, Sar2…): vesicle formation
+Rab GTPases: vesicle guidance (tethering)
+**Each Rab will be activated by a specific GEF (exchange factor).
+Activated: they will bind to the membrane reversibly. The binding to GTP will cause a conformational change and hydrophobic prenyl groups will be exposed to bind to the vesicle and be exposed by the membrane.
+The vesicle will have a tag (rab GTP) in order to know where to go. And those will be recognised by specific receptors that will be on the target.
+When the path has finished, Rab will be disassembled from the vesicle membrane so they can be recycled.
+**5.1.2. How do Rab GTP-ases work? 
+In normal conditions, Rab GTP-ases are found inactive (bound to GDP). These proteins will be activated at specific membrane sites, which contain guanine-nucleotide exchange factors (GEF). These factors will cause the exchange of GDP for GTP in Rab GTP-ases. Each GEF is specific for each Rab.
+Once the Rab is activated, a conformational change will happen in these proteins, which will lead to the exposure of hydrophobic prenyl domains (initially hidden in the structure of the protein).
+Thanks to the exposure of these hydrophobic domains, Rab GTP-ases will bind to the vesicle membrane. Reversible bounding.
+These Rab GTP-ases constitute a label that gives specificity to the vesicle. As a result, Rabs will bind to specific Rab effectors in the target compartment. These effectors will bring the vesicle very close to the target compartment membrane, and finally, the vesicle membrane and target membrane will fuse. There are different Rab effectors: 
+** Tethering proteins: 
+Long cytosolic facing domains (they go fishing for different Rabs)
+**They will try to “fish” Rab GTP-ases that are hanging around (“Rab fishing lines”). 
+Tethering proteins will bring these proteins to the target membrane. 
+More than 60 Rab members. Each functions with a particular type of vesicle. Highly specific.
+**Rab membrane receptors: 
+**Transmembrane proteins which bind specifically to the corresponding Rab GTP-ases. 
+They bring the vesicle very close. 
+In this way, one specific vesicle will bind to one specific Rab receptor. 
+This specificity ensures proper delivery of the vesicle at the appropriate target compartment. 
+Finally, a process known as “vesicle docking” will occur: consists of bringing the vesicle very close to the target compartment (nearly touching). This process is controlled by Rab membrane receptors. Once the vesicle gets just beside the target compartment, SNARE proteins will participate to mediate membrane fusion (last step).
+**5.1.3. Rab members 
+There are more than 60 known Rab members. Each of these proteins participate in a particular vesicular trafficking event and they are highly specific. 
+**5.2. SNARE proteins 
+**The last mechanism to ensure a proper delivery relies on v-t SNARES. Their binding is also very specific.
+● v-SNARE (vesicle snare): vesicle transmembrane proteins. They are transported through vesicles. Each vesicle carries a specific v-SNARE. 
+● t-SNARE (target snare): transmembrane proteins of the target compartment. Transport target snares. They are complementary to specific v-SNARES. 
+T-Snares are attached to the v-Snare of the vesicle transmembrane proteins that will fuse with the target compartment.
+The activation is triggered by some kind of stimuli and when the activation happens the recruit of the protein fusion complex (referring to the proteins which participate in the membrane fusion) will catalyze the fusion of both membranes.
+v and t SNARES will bind together. In other words, upon v-t SNARE binding, membrane fusion complex proteins will be recruited, which will eventually lead to the fusion and delivery of contents to the target compartment. There has to be a triggering signal so that the assembly of the fusion complex happens. 
+Rab GEFs (exchange factors), Rab GTP-ases, Rab effectors (the ones that recognise Rab GTPases) and V and t snares are highly specific and need to be complementary, otherwise membrane fusion won't occur. This is why it is difficult for vesicles to get lost in the cytoplasm. It ensures accuracy, it’s a highly regulated process. This way eukaryotic cells can deliver products to different compartments without causing a mess.
+*It is important to take into account that membrane fusion will only occur when two complementary t and v SNARES find each other. 
+**6. STEPS IN VESICLE FORMATION, TARGETING, DOCKING, FUSION 
+**Here we can see an image of vesicle formation, where the most important processes for this topic are illustrated: 
+The process as a whole relies on the GEF, Rab GTPases, Rab effectors  and T and V snares to ensure the appropriate delivery of vesicles in different compartments. In the image the polymerization of coats and dynamin participating in excision can be seen. Then the coat depolymerases and meanwhile the vesicle gets disabled by the RabGTPase. These Rab GTPase will recognize first the therein proteins and then the Rab receptors, to get vesicles close to the target membrane by docking receptors. The final step of membrane fusion would be regulated snare proteins (very specific). Then the vesicle can be recycled back to the initial compartment.
+**7. TOXINS AFFECTING SNARES AND VESICLE FUSION 
+There are some bacterial proteolytic toxins (anaerobic) that cleave or break up some neuronal v-t SNAREs (responsible for the fusion of synaptic vesicles in the presynaptic membrane)
+● Tetanus Toxin: from Clostridium Tetani. They break VAMP-Synaptobrevin (v-SNARE protein). Anaerobic bacteria that usually live in specific environments. Its presence causes muscle contraction and rigidity.
+● Botulinum Toxin (BoTOX): from Clostridium Botulinum. They break VAMP (specific v-SNARE protein), Syntaxin and SNAP25. Therefore, muscles can not contract. It is often used (in controlled small quantities) in cosmetics to block muscle contraction (commonly known as botox). 
+Both toxins are among the most potent biological neurotoxins known, and have a similar way of action, but the results of the symptoms of the disease are dramatically different. 
+TETANUS TOXIN
+Neuronal cells contain large amounts of secretion vesicles (synaptic vesicles), in which neurotransmitters are stored, like acetyl-coline. Neurons must release neurotransmitters (upon stimulation) in order to communicate with each other. In presence of toxins the release of vesicles containing neurotransmitters is blocked. This may lead to paralysis and death, as it happens in the case of Tetanus. However, each toxin affects a different type of neuron. 
+They hydrolyse v and t SNARES in neural cells, both are hydrolytic toxins. They act in a similar way, but their effects are different, due to their differential permeability.
+**7.1. BoTOX 
+**● Clinical practice: it can be used to treat muscular spasm disorders.
+● Cosmetic surgery: it can be used to reduce facial wrinkles. Wrinkles are formed because of repetitive contraction of facial muscles. The contraction of the muscle is induced by neurotransmitters. By applying BoTOX, you are paralyzing face muscles. Since muscles are paralyzed, the appearance of wrinkles will be blocked and so the ability to make gestures with the face. 
+BoTOX, when applied locally, blocks the neuromuscular junction. This junction is a synapse between a motor neuron and a muscle through vesicles, and its blockage causes muscle flaccidity, which means muscle contraction is impaired. 
+**It causes botulism as well.
+**7.2 TETANUS TOXIN (NO LO HA MENCIONADO)
+In tetanus motor neurons are not affected that much, instead interneurons which regulate the activation of motor neurons are inhibited. So there’s the inhibition of an inhibitor (interneurons are responsible for deactivating the motor neurons as well) resulting in massive muscular contraction, which is totally opposite of muscular flaccidity. By removing the inhibition there is an excessive movement of the motor neurons. The diaphragm contraction prevents you from breathing, usually causing the death of the infected person.
+***By reducing the inhibition, an over-effect happens.
+**8. KNOWLEDGE TEST
+1- Name the principal mechanisms and/or protein families involved in vesicle formation, vesicle targeting and vesicle fusion 
+1-Vesicle formation facilitated by protein coats
+**Clathrin: Involved in vesicle formation at the plasma membrane and the trans-Golgi network.
+COPI (Coat Protein Complex I): Involved in retrograde transport from the Golgi back to the ER or between Golgi compartments.
+**COPII (Coat Protein Complex II): Involved in anterograde transport from the ER to the Golgi.
+2-Vesicle targeting controlled by Rab GTP-ases
+3-Membrane fusion controlled by SNAREs
+**2- How could you morphologically distinguish a cell performing regulated secretion? 
+Regulated secretion is a process where cells store secretory products in vesicles and release them only in response to specific signals. Therefore, visualizing a cytoplasmic accumulation of secretory vesicles.
+Cells performing regulated secretion can be distinguished by the presence of large, dense-core secretory granules or vesicles waiting near the plasma membrane. These granules accumulate in the cytoplasm and are released in response to specific signals (like hormones or neurotransmitters).
+**In contrast, constitutive secretion cells do not store large vesicles, and secretion occurs continuously.
+Well-developed Golgi apparatus, numerous budding vesicles at the TGN
+Vesicle docking near the plasma membrane for rapid exocytosis.
+**3- What is the role of protein coats in vesicle trafficking? 
+Protein coats facilitate vesicle formation at specific sites. 
+Induce membrane curvature and vesicle budding
+Determinate cargo direction and specificity (COP l , COP ll..)
+**4- What do protein coats need to polymerize on a particular membrane site? 
+They polymerize specific sites enriched in cargo receptors and adaptors. The control of coat polymerization is carried out by GTPases, they are activated (through exchange of GTP for GDP),they act as a molecular switch. GTPases are inactive when bound with GDP and active when bound with GTP.  They also enrich these specific sites where vesicles budding will occur
+**5- And what about Dynamin? What is it essential for? 
+Dynamin is a GTPase essential for the scission (pinching off) of vesicles from the membrane during endocytosis and vesicle formation.
+It forms a spiral around the neck of budding vesicles and, upon GTP hydrolysis, constricts, leading to the release of the vesicle into the cytoplasm.
+**6- Once formed, how do vesicles “know” how to reach their appropriate target compartments? 
+There is a binding between Rab proteins and Rab effectors. Once they are bound, Rab effectors have a high specificity, and will only go where Rab effectors are. Rab proteins are found attached in intracellular membranes. 
+7-Vesicle trafficking relies on different types of cytosolic GTPases (Rab-s, Sar-1, ARF, etc. ) which may reversibly bind to vesicle membranes. How do they do it? 
+**These GTPases bind to membranes through lipid modifications:
+Rab GTPases undergo prenylation (attachment of lipid groups like geranylgeranyl) that allow them to insert into the vesicle membrane.
+**Sar1 and ARF are myristoylated or palmitoylated, which anchors them to membranes after GTP binding.
+**8- Tetanus Toxin and BoTOX interfere with vesicular trafficking in neuronal cells. In what way?
+Both Tetanus toxin and Botulinum toxin (BoTOX) target and cleave SNARE proteins, which are essential for vesicle fusion with the plasma membrane. Both have similar mechanisms of action, but their outcomes are completely different.
+These toxins block neurotransmitter release, which may result in paralysis, or even death. They can have a different effect depending on Blood-Brain-Barrier (BBB) permeability.
+**What is the main function of the adaptor proteins in the formation of coated vesicles?
+Catalyzing vesicle fusion with the target compartment.
+**Selecting cargo receptors and molecules for transport
+Regulating exocytosis
+Targeting vesicles to the nucleus
+**Which of the following is true regarding the function of Guanine nucleotide Exchange Factors?
+GEFs inhibit GTPase activation
+**GEFs catalyze the  conversion of cytosolic GDP-bound Rabs, to membrane GTP-bound Rabs.
+GEFs degrade small GTPases in the cytoplasm
+GEFs catalyze membrane fusion
+**What is the name of the protein coat complexes involved in forming vesicles budding from the Golgi apparatus?
+Clathrin and Dynamin
+**Clathrin and COPI
+Rab GTPases and COPII
+SNAREs and clathrin
+**In which cellular process do Rab effectors play a key role?
+Protein synthesis
+Clathrin assembly
+**Vesicle tethering and docking
+Vesicle membrane scission

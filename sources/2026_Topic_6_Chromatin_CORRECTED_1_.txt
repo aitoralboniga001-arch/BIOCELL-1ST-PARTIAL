@@ -1,0 +1,143 @@
+1stMedicine CELLULAR BIOLOGY Group 4
+**TOPIC 6: CHROMATIN AND NUCLEUS 
+**INDEX: 
+**1. DIFFERENT DNA PACKING LEVELS
+**2. CHROMATINE STRUCTURE
+**3. GENE EXPRESSION IS REGULATED BY CHROMATIN PACKAGING LEVELS
+**4. HISTONES: COVALENT MODIFICATIONS
+**5. EPIGENETIC REGULATION: HISTONE ACETYLATION
+**6. POST-TRANSLATIONAL MODIFICATIONS IN HISTONES
+**7. HISTONE REGULATION OF CHROMATIN
+**8. CHROMATIN DOMAINS AND COMPARTMENTS
+**9. LARGE DNA LOOPS ASSOCIATED WITH NUCLEOSKELETON
+**10. NUCLEOSKELETON- CYTOESKELTON COUPLING
+**11. NUCLEAR LAMIA ASSOCIATED WITH DOMAINS
+**12. CHROMATIN LOOPS, TADs, AND COMPARTMENTS
+**13. S/MAR BANDINGND ANCHORES CHROMATIN LOOPA
+**14. THE NUCLEUOUS
+**15. NUCLEOLAR FUNCTION:Ribosome biosynthesis
+**16.RIBOSOMAL PROTEINS MAKE A "Return trip” FROM CYTOPLASM TO NUCLEOLUS
+**1. DIFFERENT DNA PACKING LEVELS
+DNA has different packaging levels and it adopts its structure due to modifications within histones (only in eukaryotes) and other proteins. For instance during the interphase we can find the following:
+Heterochromatin: When interactions within DNA and histones strengthen, the chromatin DNA fiber (30 nm) is formed. The DNA is too condensed for RNA polymerase to enter and, therefore, transcription is impossible. 
+Euchromatin: Nucleosome DNA fiber (10 nm). It is composed of individual nucleosomes. It’s more accessible for RNA polymerase and, therefore, transcription can occur.
+DNA packaging is very dense in the nucleus, as human cells contain 2 meters of DNA; therefore, it needs to be very condensed to be enclosed in the tiny space of the nucleus (of about 5 µm3). This packaging is accomplished thanks to the binding with proteins (histones and other proteins).
+Moreover, the maximum packaging in the form of chromosomes can be found during cell division. This is when you can distinguish chromosomes (picture).
+Euchromatin is coiled around nucleosomes (formed by histones) and then compacted into heterochromatin. This fiber forms loops that may be associated with each other and will reach maximum condensation during cell division when it forms chromosomes. 
+Histones are very complex proteins.
+**2. CHROMATINE STRUCTURE
+The DNA is coiled around nucleosomes, and each of them contains 8 histones (octamer) . There are different types of histones (H2A, H2B, H3, H4 ×2). They are fundamental to protecting DNA from mutations and they regulate how DNA is transferred. That’s why eukaryotes have a lower rate of mutation than procaryotes.
+Histone H1 is located between nucleosomes. This structure regulates the level of packaging.
+Histones are positively charged, highly conserved between species, and stabilize DNA. Thanks to their concentration of lysine and arginine (and NLS). Due to being positively charged, they can interact very tightly with DNA as DNA is negatively charged. 
+**3. GENE EXPRESSION IS REGULATED BY CHROMATIN PACKAGING LEVELS
+During interphase, gene expression is regulated by chromatin packaging levels.
+Euchromatin: uncoiled DNA, active transcription
+Heterochromatin: condensed DNA, impaired transcription. Is too packed to be accessible. 
+Both can be distinguished by TEM (and by optic microscopy too):
+Heterochromatin: concentrated at the nuclear periphery. (In the periphery there are more metals as metals will tend to accumulate where there’s a higher concentration of biomolecules). In the TEM, the periphery is more stained (it has a darker color), partly because heterochromatin is denser.
+**Euchromatin: enriched in central nuclear regions.
+Active gene expression: Euchcromatin
+Active protein synthesis: Nucleolus 
+Euchromatin and heterochromatin can be distinguished by TEM and optic microscopy.
+This difference plays a critical role in gene transcription as the cell will send the genes needed to Euchromatin and the ones that don’t need to perform their function (called silent genes) move to heterochromatin.
+Therefore, before a gen is read it has to move to euchromatin areas, and when it's silent, it’s transported to heterochromatin areas. To fulfill their function, therefore, they need to move to active areas (euchromatin). They move attaching to the nucleoskeleton.
+Moreover, the dark area that can be appreciated in the centre of the cell is the nucleolus, which isn’t heterochromatin. This structure is also electrodense as there is a high concentration of material. In the nucleolus we can find, for example, ribosomal secretions. 
+If the cell has a notable nucleolus, it is actively synthesising in proteins and it’s in the RER where proteins can express. The presence of the nucleolus will, therefore, determine whether the cell is actively synthetising proteins or not. This is because at the nucleolar level, ribosomes are produced, the vital machines that synthetise proteins.
+**4. HISTONES: COVALENT MODIFICATIONS
+The differences between euchromatic and heterochromatic depends on histone modifications, covalent modifications that are added onto the histone tails. Each histone has different tails with different aminoacids, that can be modified covalently.
+Nucleosome compaction also depends on covalent modification of histone tails:
+**Acetylation - always activation
+**Methylation -depends on the pressure at which it gets modified.
+**Phosphorylation - depends on the pressure at which it gets modified.
+**The consequences of these modifications are the regulation of the opening and the closing of the chromatin.
+**5. EPIGENETIC REGULATION: HISTONE ACETYLATION
+In order to be transcribed, genes need to be “unpacked” so they can be read by RNA polymerases: Loosen and open chromatin.
+Modifications affecting DNA-histone compaction: 
+Acetylation (distorts electrical charge): Histones are positively charged. By acetylations, the histones stop being positively charged. This will weaken interactions between histones and DNA, and favours opening.
+Histone Acetyl Transferases (HAT), enzymes present in the nucleus, cause chromatin to unpack for gene activation. They transfer an acetyl group (–COCH₃) from acetyl-CoA to lysine residues on histone tails.
+Histone Deacetylases (HDAC) chromatin condensation to avoid transcription. They remove acetyl groups and they restore the positive charge of the histones so they can interact strongly with the DNA.
+**Gene repression (HDACs)
+Modifications are reversible and don't involve any change in the DNA. 
+**6. POST-TRANSLATIONAL MODIFICATIONS IN HISTONES
+A promotes gene expressions
+Methylations can be introduced in different residues. They can be activating or inhibitory, whereas acetylations are always activating. Histone methylation involves the addition of methyl groups to lysine or arginine residues by histone methyltransferases (HMTs). Unlike acetylation, methylation does not alter charge but instead modifies the binding affinity of chromatin-associated proteins. Methyl marks are reversible, removed by histone demethylases (HDMs).
+Phosphorylation can also be either activating or inhibitory. Histone phosphorylation occurs when kinases attach phosphate groups to some residues on histones. The addition of these negatively charged groups alters chromatin structure and serves as a signal in key cellular processes. This modification is reversible, as phosphatases can remove the phosphate groups, restoring the previous state.
+Kinases: is a type of enzyme that transfers a phosphate group from a high-energy molecule (usually ATP) to a specific substrate
+**7. HISTONE REGULATION OF CHROMATIN
+Active chromatin (Euchromatin): The active parts of chromatin are the less condensed strands of DNA that are most accessible to the cellular machinery. This region contains the genes in a state that allows transcription and gene expression. 
+**Loosely packed, 10 nm fiber: This measure facilitates access for transcription factors.
+Histones mostly acetylated: It neutralizes the positive charges of these proteins and decreases their affinity for DNA, promoting chromatin opening.
+Activating methylation marks (H3K4M): These specific marks serve as “anchor sites” for other chromatin-regulating proteins, known as effectors, which recruit the machinery necessary to transcribe genes. 
+Binding of transcriptional coactivators: The binding of transcriptional coactivators is favored, which drives gene expression.
+Coactivator: a protein that increases the rate of gene expression by binding to a sequence-specific DNA-binding transcription factor
+Inactive chromatin (Heterochromatin): The DNA is tightly packed into a 30nm fiber, characterized by low histone acetylation and high levels of repressive methylation marks like H3K9M and H3K27M. 
+**DNA will be found tightly packed, 30 nm fiber: which blocks access of the transcriptional machinery.
+**Histones mostly methylated these methylations will be inhibited
+Inhibitory methylation marks (H3K9M, H3K27M): These act as signals for the development of a transcriptionally inactive environment.
+**Low histone acetylation: Low levels of histone acetylation promote close interaction between histones and DNA.
+Repressor proteins present: Repressor proteins are recruited, which consolidate the closed state and prevent transcriptional activation.
+**8.CHROMATIN DOMAINS AND COMPARTMENTS
+Chromatin organization depends not only on the local level of compaction (euchromatin or heterochromatin), but also on its arrangement in space dimensions inside the cell nucleus. This three-dimensional architecture is key to coordinating gene expression and genomic stability. Besides that, chromatin may also bind to the nucleoskeleton through specific proteins and interactions. 
+Areas of the DNA binding to the nuclear lamina will be silent, whereas areas of the DNA binding to the centre will be active.
+Nuclear lamina silenced 
+Interactions with nucleoskeleton: Scaffold/Matrix Attachment Regions (S/MARs) can selectively bind parts of the DNA and can be regulated.
+There is also a Formation of large chromatin loops which may bring together distant DNA regions located very fast.
+Compartment A: Euchromatin, active transcription
+Compartment B: Heterochromatin, inactive zones
+Loops allowed very distant parts of the genome to be closely interacting.
+Gene expression involves physical movement toward active zones
+**9. LARGE DNA LOOPS ASSOCIATED WITH NUCLEOSKELETON
+It is known that chromatin may also bind to the nucleoskeleton. And there are different domains within the nucleoskeleton. There are the nuclear lamina and the nuclear matrix. The nuclear lamina, the periphery, and the nuclear matrix types. And those organise different genes. Areas of DNA binding to the nuclear lamina will be higher, whereas areas binding to the nuclear matrix types will normally be more active. They have a better chance to be expressed.
+This is due to the difference of ideas with the nucleoskeletons. There are different regions within the DNA that can selectively bind to different parts of the nucleoskeleton. The nuclear lamina and the nuclear matrix and this binding is regular. But then, apart from binding to different parts of the nucleoskeleton, this chromatin can also form loops.
+And these loops allow very distant parts of the genome to be in close association. So these loops have defined boundaries that are defined by different proteins,  like pro-HC or C-HC.
+There are higher amounts of the chromatin. What's known as the chromosome compartment. The nuclear interior is generally enriched in transcriptionally active chromatin and this is the chromosome compartment A. It was known that was the position, and that was the expression of the gene activating it. This gene moves physically from one part of the nucleus to another. From compartment A to compartment B to compartment A. It is now known that what happens is that the chromosomes remain in a fixed position, but different chromosomal domains may move physically.
+Chromosomal domains: a distinct, self-interacting three-dimensional structural unit of DNA and proteins within a cell's nucleus. The chromosome can move inside it but it doesn’t “escape” from it.
+**10. NUCLEAR LAMINA ASSOCIATED WITH DOMAINS
+The nuclear lamina is a complex fibrillar protein network associated with the inner nuclear membrane. One of its main functions is to organize chromatin in the nuclear space by establishing nuclear lamina-associated domains .
+Constitutively silenced heterochromatin: Nuclear lamina associating domains are usually formed by constitutive heterochromatin, which means they're chromosomal regions that stay permanently silenced. These areas are related B chromosomal compartments. 
+Repetitive DNA elements; repressive methylation marks: DNA methylation can influence whether genes are active or inactive, and is associated with the repression of gene transcription. 
+Chromosomal ends (i.e. telomeres) often bound there, providing great stability: Provide structural stability by protecting DNA from degradation and wear during cell division, preventing chromosomes from becoming tangled or genetic material from being lost. 
+Depending on what part of the nucleus the chromatin has in part, and depending on whether it forms a loop or not, it can extend, it can pass through it,  there are different DNA segments with a lot of different locations. Even though they still remain part of the same chromosomal territory, within this territory there are different compartments. 
+So, we can use the B compartment, which is usually associated with the nuclear lamina, where most chromatin is found, compared to the A compartment, where most of the chromatin is found in euchromatin.
+And gene fragments can change their position from the B to the A compartment, thanks to the selective binding of different parts of the nucleus skeleton, whether the nuclear  lamina, neutral matrix, and the formation of loops.  
+**11. NUCLEOSKELETON- CYTOESKELTON COUPLING
+Tensile forces exerted on the cytoskeleton are transferred to the nucleus. This can also regulate gene expression (chromatin rearrangement) LINC complex: “Linker of Nucleoskeleton and Cytoskeleton”. LINC complex is a complex network of proteins located in the nuclear envelope that serves as a direct physical bridge between the cell's cytoskeleton and the nuclear lamina.
+Nesprins / KASH proteins: Cross the ONM (outer nuclear membrane); Bind to MTs (microtubules), IFs (intermediate filaments), and Actin Fs (actin filaments).
+**SUN proteins: Cross the INM (inner nuclear membrane); Bind to Nesprins and Lamins (NUCLEOSKELETON). 
+**12. CHROMATIN LOOPS, TADs, AND COMPARTMENTS
+There are key components that help the genome to acquire its three-dimensional organization (3D): TADs, Cohesin and CTCF factors.
+Chromatin can adopt different states, ranging from heterochromatin to euchromatin. During this process, chromatin loops are formed, which define Topologically Associating Domains (TADs). TADs bring specific genomic regions into close physical proximity, allowing local interactions.
+Loops are generated by the coordinated action of Cohesin and CTCF. Cohesin forms the space vector ring that allows DNA loops to form. CTCF proteins, meanwhile, mark the boundaries of those loops.
+By isolating DNA into distinct domains, chromatin can be segregated into different compartments. Regions that are transcriptionally inactive (not expressed) are typically associated with the B compartment, while active (expressed) regions are enriched in the A compartment.
+These loops can physically separate chromosomes. Even when they remain within their own territory of the chromosome,  different parts of those chromosomes need to be spread and they move physically to the centre of the loops. So cohesin encircles chromatin fibres making loops.
+This may allow bringing distant parts of the genome of different chromosomes close together by the centre  of the loops. Then, CTCF factors are what define the TAD factors. So by encompassing the CTCF protein, the cohesin won't pass any more DNA across.
+**13. S/MAR BANDINGND ANCHORES CHROMATIN LOOP
+This organization can lead to synergistic gene activation. Topologically Associating Domains (TADs) can interact with each other by anchoring to the nuclear scaffold or matrix.
+Scaffold/Matrix Attachment Regions (S/MARs) anchor these domains to the physical architecture of the nucleus.
+By binding to these structural elements, chromatin loops may form cooperative associations. This enables regions from different chromosomes to be brought into close proximity at the nuclear matrix. As a result, transcriptional co-activators and regulatory elements can be concentrated in the same nuclear neighborhood.
+In this way, TADs can be reorganized or clustered to promote or repress the expression of specific gene groups. Genes that need to be expressed as part of a physiological response may be brought together through such loop-matrix interactions. Very often, the binding to the neutral selectors determines the synergistic associations in these domains.
+Very often, binding to the nuclear scaffold determines these synergistic associations, leading to the coordinated activation of gene networks that may span one or multiple chromosomes.
+**An example of this is the nucleolus:
+**14. THE NUCLEOLUS
+The nucleolus is an electrondense structure that can be observed using transmission electron microscopy (TEM). Its main function is the assembly of ribosomes. This involves the transcription of ribosomal RNA (rRNA) genes from the chromosomes and the subsequent processing and association of these rRNAs with ribosomal proteins to form the subunits of mature ribosomes.
+A nucleus may contain one or several nucleoli. This occurs because rRNA gene clusters (nucleolar organizer regions, NORs) are located on different chromosomes. When these chromosomal regions are transcriptionally active and come together, multiple nucleoli can form. In general, the number and size of nucleoli correlate with the level of ribosome biogenesis, and thus with the protein synthesis activity of the cell. 
+If a cell needs to produce a lot of proteins, it is more likely to have more than one nucleolus.
+**15. NUCLEOLAR FUNCTION: Ribosome biosynthesis
+Within the nucleolus, three distinct regions can be identified:
+Fibrillar Center (FC): These appear as lighter (less electron-dense) areas under TEM. They contain euchromatin regions with ribosomal RNA (rRNA) genes. They look pale because the DNA here is transcriptionally active and less condensed.
+Dense Fibrillar Component (DFC): Surrounding the fibrillar centers, this region appears darker (more electron-dense). It contains newly transcribed pre-rRNA molecules and processing factors involved in the early steps of rRNA maturation.
+Granular Component (GC): This region is less dense than the DFC and occupies the rest of the nucleolus. It is where later stages of ribosome assembly take place, as rRNA combines with ribosomal proteins to form pre-ribosomal subunits.
+Altogether, the nucleolus represents an accumulation of chromosomal regions carrying rRNA genes (nucleolar organizer regions, NORs), along with the machinery required for ribosome biogenesis.
+**16. RIBOSOMAL PROTEINS MAKE A "Return trip” FROM CYTOPLASM TO NUCLEOLUS
+Within the nucleolus, chromosomal regions carrying ribosomal RNA (rRNA) genes cluster together. These genes are transcriptionally active because they are located in euchromatic regions. As rRNA is produced, it undergoes processing and eventually associates with ribosomal proteins to form ribosomal subunits.
+Ribosomal proteins are synthesized in the cytosol and must travel back into the nucleus. Each ribosomal protein contains a nuclear localization signal (NLS), which allows its import through the nuclear pore complexes with the help of importins.
+Once inside the nucleolus, ribosomal proteins are assembled with the newly transcribed rRNAs to form the small and large ribosomal subunits. These pre-ribosomal subunits are then exported to the cytoplasm via the nuclear pores. Export requires nuclear export signals (NES) and specific export factors.
+**SURPRISE QUESTIONS:
+**Which statement about heterochromatin is correct? 
+Its transcription is silent  and highly condensed.
+**Topologically associated domains TADS in chromosomes are organised primarily by? 
+Cohesin, CGT and S/mar binding.
+**Cohesin is best known for its role in? 
+Organising chromatin loops.
+**Which of the following modifications is usually associated with active transcription?
+Histone acetylation.

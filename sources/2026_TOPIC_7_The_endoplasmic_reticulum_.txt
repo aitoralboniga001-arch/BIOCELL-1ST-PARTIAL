@@ -1,0 +1,556 @@
+
+=== PAGE 1 ===
+ 
+BIOCELL BLOCK 4: ENDOMEMBRANE SYSTEM 
+TOPIC 7: THE ENDOPLASMIC RETICULUM (ER) 
+1.​ THE ENDOMEMBRANE SYSTEM   
+2.​ THE ENDOPLASMIC RETICULUM (ER)   
+2.1​Rough Endoplasmic Reticulum (RER)   
+2.2​Smooth Endoplasmic Reticulum (SER)   
+3. SECRETORY AND CYTOSOLIC PATHWAYS FOR PROTEIN SYNTHESIS   
+3.1 Cytosolic pathway   
+3.2 Secretory pathway   
+4.​ RER: THE START OF THE SECRETORY PATHWAY   
+5.​ CYTOSOLIC vs. RER POLYRIBOSOMES   
+5.1 Characteristics   
+6.​ TRANSLOCATION OF PROTEINS   
+6.1​Synthesis of water soluble proteins   
+6.2​Synthesis of transmembrane proteins   
+6.3​ Hydropathy profiles and ER membrane insertion  
+7.​ FOLDING AND QUALITY PROTEINS   
+7.1​Chaperons and protein folding   
+7.2​The unfolded protein response (UPR)   
+8.​ GLYCOSYLATION 
+9.​ SMOOTH ENDOPLASMIC RETICULUM (SER)   
+8.1​Cytochrome p450 system   
+8.2​Membrane lipid biosynthesis in the SER   
+10.​INTEREXCHANGE OF LIPIDS BETWEEN THE ER AND OTHER ORGANELLES   
+11.​OTHER ER FUNCTIONS: STORAGE OF Ca2+   
+1  
+
+=== PAGE 2 ===
+ 
+1. THE ENDOMEMBRANE SYSTEM   
+The endomembrane system consists of a group of 
+organelles 
+which 
+are 
+interconnected 
+through 
+transport vesicles (unidirectional) and work together 
+to modify, package and transport lipids and proteins. 
+They are independent, but work together.   
+-​ These organelles are the endoplasmic Reticulum, 
+(nuclear envelope → Remember the outer nuclear 
+membrane 
+is 
+physically 
+continuous 
+with the 
+endoplasmic 
+reticulum), 
+the 
+golgi 
+apparatus, 
+endosomes,  
+phagosomes, 
+autophagosomes, 
+lysosomes and transport vesicles.  
+  
+-​ It is extremely important to remember that peroxisomes,  mitochondria and chloroplast don’t belong to 
+the endomembrane system, because they don’t receive vesicles from the other organelles.  
+ 
+  
+  
+  
+2  
+
+=== PAGE 3 ===
+ 
+2. THE ENDOPLASMIC RETICULUM  
+It is a continuous membrane system that forms a series of flattened sacs within the cytoplasm of 
+eukaryotic cells and serves multiple functions, being important particularly in the synthesis, folding, 
+modification, and transport of proteins and lipids too. It is a complex membrane organelle, and they have a 
+very variable development in the cell depending on the cell type/activity (especially abundant in protein 
+and lipid secreting cells). Its presence depends on the cell type, especially cells that have to secrete 
+proteins or lipids will have a big ER.  
+2.1. RER: rough endoplasmic reticulum  
+-​It is the beginning of the secretory pathway. It has ribosomes attached to the membrane.   
+-​Cisterns are aligned in parallel.   
+-​Main function → involved in protein metabolism:   
+-​
+Protein synthesis: beginning of secretory pathway.   
+-​
+Protein sorting 
+-​
+Protein glycosylation: The amino acids have sugar molecules attached to them.   
+-​
+Protein folding: There is a high amount of chaperons. Proteins need to be properly folded so they 
+have a specific function. Fundamental for proteins because it helps them acquire their final 
+conformation and,  therefore, their specific function.  
+-​Synthesized proteins are stored in the lumen of the ER and will reach the Golgi apparatus and other 
+organelles through vesicles.  
+ 
+ 
+2.2. SER: smooth endoplasmic reticulum   
+-​It does not have ribosomes attached to it, and it’s smaller 
+-​Cisterns are more twisted, they look more disorganized. It is 
+more irregular (in the cross section it looks like there is an 
+accumulation of vesicles).   
+-​Main function → lipid metabolism   
+-​Membrane lipid synthesis (when the lipids are reduced they are sent to other organelles by means of 
+vesicles or other translocators).   
+-​Interexchange of lipids between organelles   
+(through vesicles or specific cytosolic transporters)   
+-​Phospholipids, sphingolipids, cholesterol and Steroid hormones (cortisol…) synthesis  
+-​Detoxification of toxic organic compounds through oxidation, together with ​mitochondria and 
+peroxisomes (enzymes of the cytochrome P450).  
+RER/SER ratio depends on the cell type and its physiological function. For example, cells synthesizing  
+3  
+
+=== PAGE 4 ===
+ 
+large amounts of proteins will have a very developed RER and cells having a very high lipid metabolism will 
+contain a very developed SER. There is continuity between the SER and the RER, they are arranged 
+differently but they are communicated.   
+-​
+RER/SER ratio: how a cell balances its two types of endoplasmic reticulum Rough and Smooth is 
+directly determined by what that specific cell's main job is. 
+3. SECRETORY AND CYTOSOLIC PATHWAYS FOR PROTEIN SYNTHESIS   
+Ribosomes initiate translation in the cytosol, after that, there are two routes that proteins use to reach 
+their destination within the cell:  
+3.1. ​ CYTOSOLIC ​
+PATHWAY: ​
+mRNA ​translated ​
+into ​
+polyribosomes ​
+(cytosol): 
+Nuclear, cytosolic, mitochondrial and peroxisomal proteins.  
+Direct translation of the mRNA. The ribosome can continue being a free ribosome and the synthesis of the 
+protein is going to finish in the cytoplasm. Proteins following this route are synthesized by free ribosomes 
+in the cytosol. These proteins usually remain in the cytoplasm or are directed to organelles like 
+mitochondria, chloroplast, nucleus or peroxisomes (none of them is an organelle of the endomembrane 
+system), where they perform specific functions.  
+The proteins are released to the cytosol and need to be exported to 
+the organelles by different mechanisms. This pathway is common for 
+proteins 
+that 
+do 
+not 
+require extensive post-translational 
+modifications.  
+3.2. SECRETORY PATHWAY: mRNA translated on ER surface: 
+Endomembrane compartment and secretion proteins. 
+Secretory pathway. GLYCOSILATIONS.  
+The translation of mRNA starts on the surface of the ER, followed by transport through vesicles to the Golgi 
+apparatus. Here, proteins are modified and packaged into secretory vesicles, which will fuse with the 
+plasma membrane to release the proteins outside the cell. This pathway is typical for proteins that need to 
+be secreted, sent to specific organelles or targeted to lysosomes. These proteins have specific signals:   
+- GLYCOSYLATIONS. All proteins will have sugars residues attached to them (it is their main characteristic). 
+These glycosylations will start in the ER and they will be finished in the Golgi apparatus.   
+4. RER: THE START OF THE SECRETORY PATHWAY   
+Ribosomes attached to its surface (electrondense spots) will be 
+translocated to the RER lumen (cistern inside), which will 
+4  
+
+=== PAGE 5 ===
+ 
+contain newly synthesized proteins along with chaperons. The RER consists of highly aligned cisterns 
+charged, visualized in parallel and they have electrodense spots (ribosomes). Once proteins are synthesized 
+they will be translocated to the lumen of the ER.  
+ 
+Synthesis starts in the cytosol, the ribosome and the mRNA bind in the cytosol, (the first amino acids are 
+translated by cytosolic ribosomes), but the ribosome is immediately translocated to RER thanks to an 
+HYDROPHOBIC SIGNAL PEPTIDE (8-10 hydrophobic amino acids) → (this will be the ER import signal) →if 
+anything has this signal, it will be translocated to the ER. If we remove that sequence it blocks the 
+translocation. It's a consensus sequence (not fixed relative changes are allowed)  
+-​
+Consensus sequence: an idealized sequence of nucleotides (in DNA/RNA) or amino acids (in proteins) 
+that represents the most frequent residue found at each position when comparing multiple related, 
+aligned sequences. 
+If you remove it from the gene block translocation, a special protein (SRP) recognises and binds to these 
+hydrophobic peptide sequences.   
+  
+5  
+
+=== PAGE 6 ===
+ 
+ 
+ 
+5. CYTOSOLIC vs. RER POLYRIBOSOMES   
+Many ribosomes read one mRNA molecule at a time. In the secretory pathway, in order for the 
+mRNA-ribosome complex to be translocated to the ER, the protein needs to have a specific 
+hydrophobic signal sequence. The Signal Recognition Particle (SRP) recognizes and binds to this 
+signal sequence, directing the mRNA-ribosome-nascent protein complex towards the RER.” 
+  
+5.1. Characteristics   
+-​ 8 to 10 hydrophobic amino acids in a row (Leu, Ile, Phe, Trp, Val, Met, Ala): hydrophobic block - It’s a 
+consensus sequence (not fixed: relative changes are allowed as long as they are hydrophobic amino acids.)  
+6  
+
+=== PAGE 7 ===
+ 
+- If you remove it from a gene → block translocation (it shows that sequences are fundamental to 
+immediate translocations). Proteins rely on this system to reach the ER.   
+-​ A special protein (SRP, signal recognition particles) recognizes and binds to these hydrophobic peptide 
+sequences. So thanks to this movement of the SRP molecule, we are going to have ribosomes attached to 
+the rough endoplasmic reticulum (RER).   
+6. TRANSLOCATION OF PROTEINS   
+Shortly after the initiation of translation the signal peptide, which has to be hydrophobic, will appear.  
+​ Typically, ​ this ​ peptide ​ will ​ have ​ a ​ consensus ​ sequence ​ created ​ by ​ 8-10 ​ amino ​ acids ​(ex:  
+Leu-Leu-Leu-Val-Gly-Ile-Leu-Phe-Trp-Tyr). This will be recognised by the Signal Recognition Particle (SRP). 
+This protein, first of all, recognises the signal sequence of the nascent newborn protein, it gets in touch 
+with it, and also with the ribosome that is free in the cytosol. Finally, it is going to transport both the 
+nascent protein with the ribosome and the mRNA molecule towards an SRP receptor, and this receptor is 
+located in the RER. So, in other words, SRP binds the peptide and brings the mRNA-ribosome complex to 
+the RER surface.   
+ 
+Thanks to this movement of the SRP molecule, and to the 
+interaction of the SRP with the protein translocation 
+machinery in the ER, we are going to have ribosomes 
+attached to the rough endoplasmic reticulum. Translation 
+will be transiently stopped until the whole complex gets 
+bound to the ER membrane.   
+  
+Once the ribosome together with the nascent protein is attached to the rough ER, there is a 
+cross-membrane protein called translocon (which will catalyse translocation of the new protein to the ER 
+lumen) is going to open. Once this protein opens, the synthesis of the protein is not going to happen 
+anymore in the cytosol, but inside the lumen of the endoplasmic reticulum. In the process, there could be 
+different situations depending on the protein.   
+ 
+  
+6.1. Synthesis of water soluble proteins   
+Ribosome is going to be bound to the ER. Then, the signal peptide 
+will interact with the translocon in a way that the edge of the 
+protein will be sticking facing the cytosolic side. Meanwhile the ribosome will resume translation so new 
+amino acids will be added to the newborn protein and after a while, signal peptides will come and cleave 
+the protein by the signal peptide depart. Like this, it will remove the signal peptide from the new protein. 
+In the process, the signal peptide will remain bound to the translocator temporarily (it has affinity for the 
+hydrophobic peptide), but the protein will be released free in the ER lumen.   
+7  
+
+=== PAGE 8 ===
+ 
+6.2. Synthesis of transmembrane proteins   
+These have internal hydrophobic blocks in the protein sequence. Alternating several of these hydrophobic 
+sequences, multi-pass transmembrane proteins can be synthesised. Transmembrane proteins are those 
+who are permanently attached to the membrane by hydrophobic domains but cross to the lipid bilayer. 
+Transmembrane proteins are different, because apart from the first hydrophobic block (there are several), 
+they have other internal signal sequences: the start and stop transfer sequences: These sequences 
+determine how the protein is inserted into the ER membrane.” 
+The stop signals bind to the proteins too and the part that has been synthesised stays inside and the part 
+that is going to be done gets out.  
+Single Stop sequence: The single-pass transmembrane protein will cross through the membrane only one 
+time.   
+ 
+ 
+8  
+
+=== PAGE 9 ===
+ 
+  
+ 
+The process is the following one:   
+-​SRP (signal recognition particles) recognize the sequence and get in touch with the ribosome.   
+-​Transport the ribosome towards the membrane of the ERER.   
+-​Translation continues and when the protein is burning inside the lumen, the peptidase is gonna cut the 
+signal sequence.   
+-​When the protein is finished the translocation closes again and we will have the protein. Also, the 
+hydrophobic peptides will be transferred to the lipid bilayer.   
+  
+Alternating the hydrophobic sequences (start and stop) there is a possibility to generate multiple multipass 
+of transmembrane protein. So the internal hydrophobic parts of the protein will constitute the 
+transmembrane domains of the future protein. Hydrophobic amino acids tend to arrange alpha-helix 3D 
+(most stable form of arrangement), which interact with the lipid bilayer (the amino acids are not repealed 
+by the bilayer because they are hydrophobic, so they are able to integrate well in the lipid bilayer).   
+*Non-well folded proteins can suppose a danger for the protein itself. If chaperons fail their function, then 
+the protein won’t complete its function (not functional). (The function of each proteins relays on the 3D 
+configuration of the protein)   
+9  
+
+=== PAGE 10 ===
+ 
+*These signal sequences get their name (start/stop) because the first sequence, which is the signal peptide,  
+starts the translocation of the protein. But then, when there is another one, it will stop because the amino 
+acid that is next to it will be sticking out of the membrane.   
+A quick summary: 
+-​
+The part made BEFORE the stop signal: this part already passed completely through the channel. It 
+stays inside the ER lumen. 
+-​
+The stop signal itself: this is the part that gets pushed sideways and stays embedded inside the lipid 
+bilayer (as this signal is highly hydrophobic) 
+-​
+The part made AFTER the stop signal: as the channel is now closed, this final part cannot enter the 
+ER. It stays outside in the cytosol. 
+10  
+
+=== PAGE 11 ===
+ 
+11  
+
+=== PAGE 12 ===
+ 
+ 
+ 
+6.3 Hydropathy profiles and ER membrane insertion  
+Transmembrane domains can be predicted by the assessment of the presence of hydrophobic sections 
+within the protein sequence.  
+The initial SRP binding domain is not always eliminated (case-dependent variations)   
+The initial bind is necessary to bring the protein to the surface. Transmembrane domains can be predicted 
+by the assessment of the presence of hydrophobic sections in the protein sequence.  
+12  
+
+=== PAGE 13 ===
+ 
+tra. FOLDING AND QUALITY PROTEINS   
+7.1 Chaperones and protein folding   
+Chaperons are proteins that assist or that help other proteins fold correctly, whether the type of the 
+protein they all have to be folded correctly. Proteins that aren’t correctly folded are useless, and even 
+dangerous for the cell (they become a problem for the cell because they accumulate damage).   
+  
+Due to that, and to help new proteins get their final 3D 
+conformation, ER is very rich in chaperones. If chaperones 
+fail, ​ the ​
+new ​
+synthesized ​
+protein ​will ​
+likely ​
+be non-functional.   
+One example of complex folding processes requiring the 
+aid of chaperones is heteromeric protein assembly 
+(antibodies), that need BIP chaperone. IgGs (a type of 
+antibodies) contain two light and two heavy chains, so 
+they are a protein containing four different protein chains. 
+BiP chaperones help them to stabilize, before they get 
+bound to the rest. So this takes  place gradually.   
+Another example is the case of the disulfide bond formation (covalent bond), in which the protein disulfide 
+isomerase (PDI) has an important role: it participates in the creation of these specific unions by oxidizing 
+amino acids with a sulfide group to create a covalent bond that brings polypeptide chains together. This is 
+very typical in heteromeric proteins.   
+ 
+*There are four main proteins that control the proper folding of proteins to manage to get that 3D 
+structure, which are different types of chaperons:   
+The following molecular chaperons are very abundant in the RER lumen. Calnexin and Calreticulin bind to 
+glycosylated protein moieties, binding those oligosaccharides.  
+-​BiP; It is hydrosoluble. It is a resident protein and it is found in the lumen in the ER. It stabilises and 
+checks the proper folding of the protein. Heteromeric protein assembly (antibodies: light and heavy 
+chains bonded to each other, assembled) 
+ -Calnexin; It is liposoluble because it is a transmembrane protein but it is facing the lumen so it can 
+interact with the protein. It controls the proper folding of the protein by adding or removing sugars. 
+Participants on giving assistance to make protein have their correct conformation.   
+ 
+-​Disulfide bond formation: can be formed on the same poli chance   
+  
+-​Calreticulin: It shares the function with the previous one but in this case it is hydrosoluble.   
+13  
+
+=== PAGE 14 ===
+ 
+PDI: It is hydrosoluble. It is found in the lumen of the ER and its main function is to create disulphide 
+bonds (covalent bonds between two residues of the cysteine aminoacid) 
+If a new protein is not well folded, it gets retained by chaperons inside the ER: ER stress that produces 
+changes in gene expression, which may lead to cell death if sustained over time. (Apoptosis)  
+  
+ 
+  
+7.2 The unfolded protein response (UPR) - ER stress: folding and quality control in the ER 
+When unfolded or misfolded proteins accumulate in the ER because its folding capacity is insufficient, the 
+unfolded protein response (UPR) is activated to restore normal ER function. This is a situation of ER stress. 
+For example, rising temperatures.   
+Proteins need to be properly folded within the ER and if many unfolded proteins accumulate, that may 
+compromise cell viability. There are some stress sensors (PERK, IRE1, ATF6) that are present in the ER 
+membrane that can detect these situations. If you have a situation, for instance, when cells are subjected 
+to high temperatures, many unfolded proteins are obtained so there is a higher demand for chaperones. 
+Chaperones instead of being free, they will be all occupied to fold the proteins. There are some 
+transmembrane proteins (stress sensors) in the ER membrane which can be either bound to chaperones or 
+unbound to them. When the chaperone demand is low, these proteins will be bound to chaperones in an 
+inactive form.   
+  
+However, if there is a higher demand for chaperones, then those sensors will lose proteins. If there are a lot 
+of unfolded proteins, the ER sensors don't have any chaperons bound to them and they activate the relay 
+stress signals to the cell nucleus. This is what is called the UPR or the unfolded protein response.   
+Quick summary 
+1.​ The ER discovers the problem (too many misfolded proteins). 
+2.​ The Nucleus holds DNA for making chaperones, as the ER doesn't have the DNA or the machinery to 
+make new chaperone proteins from scratch (desde cero) 
+14  
+
+=== PAGE 15 ===
+ 
+The important idea is that they all culminate in the activation of specific transcription factors that may 
+affect gene expression. The gene expression response that is activated is usually to increase the 
+chaperones synthesis as chaperones are very needed in the case of accumulation of unfolded proteins. 
+Then, autophagy pathways will be activated as well. If this situation of ER stress persists, this will lead to 
+the suicide of the cell, what we call as cellular apoptosis. This is usually created by the accumulation of 
+unfolded proteins.   
+ 
+ 8. GLYCOSYLATION  
+This process is specific for proteins taking the secretory synthesis pathway (RER-Golgi). It starts in the ER 
+and it takes place simultaneously with the translocation.   
+  
+In translation of the protein some specific carbohydrates are added to it, because 
+cytosolic proteins have no sugar residues attached. Those needed sugars are 
+transferred from the main molecule used in this process: dolichol (phosphate). It is 
+located in the ER membrane and has two functions: anchoring molecules and 
+carrying molecules. As the proteins get synthesised, some specific amino acids of 
+the proteins’ structure bind to the dolichol oligosaccharide, like this, the 
+oligosaccharide is transferred from dolichol phosphate to asparagine amino acids 
+in the new protein. This process is called N-glycosylation (carried out on the top in 
+a nitrogen atom).   
+Always every oligosaccharides that take part contain the same elements (they are the same 
+oligosaccharide): 14 sugar residues, 2 NAG (N acetylglucosamine), 9 mannose and 3 galactose. Apart from 
+that, all the proteins that enter in the ER are glycosylated in the same way, initially. Particularly important in 
+the golgi apparatus for tagging different proteins, due to the compounds taking different directions.   
+●​ Glycosylation: sugar residues attached to an amine group 
+9. SMOOTH ENDOPLASMIC RETICULUM (SER)   
+The SER is continuous with the RER and they both belong to the same organelle but the structure is 
+completely different. In the SER there are not any attached ribosomes, so they cannot synthesise proteins. 
+However, it is very important in lipid metabolism. Most cellular membrane lipids are synthesised here so 
+they can then be transferred to other cellular compartments by means of vesicles or specific transporters. 
+The SER also plays an important role in the clearance of toxic hydrophobic compounds (xenobiotics) by 
+oxidising them. This is catalysed by the p450 cytochrome system (redox enzyme system). They are very 
+often hydrophobic so they need to be modified. In 2D images it looks like an accumulation of vesicles. 
+These systems are actually linked.   
+15  
+
+=== PAGE 16 ===
+ 
+ 
+ 
+Cells containing a very developed SER are usually involved in lipid metabolism and in the clearance of toxic 
+substances in our organism. For example, liver hepatocytes (which are involved in the clearance of toxins or 
+hydrophobic toxins from the blood, like in the drug clearance). Adrenal gland cells also have a very 
+developed SER but in this case they are involved in steroid hormone synthesis.   
+9.1. Cytochrome p450 system   
+Carries out the oxidation of the toxic compound   
+It is a very powerful system to metabolise non-water soluble toxic organic compounds.   
+The cytochrome p450 system retains a lot of mitochondrial reticulum transport chains. It is a set of redox 
+enzymes present in the ER membrane with the function of oxidising organic components. There are 
+electron donors (NADPH will be the primary donor) which transfer electrons to the chain of proteins to 
+transport them from one another. This is used to metabolise organic compounds. These compounds are 
+usually hydrophobic toxins and in order to be eliminated/secreted they have to be oxidised. Those enzymes 
+manage to combine the ‘R’ (this will refer to the toxin) to make it water soluble (more “manageable” for 
+secretion/elimination). Similarly to mitochondria, this system consumes O2 that combines with the toxin so 
+it gets oxidised, and oxygen gets reduced to water.   
+ 
+  
+9.2. Membrane lipid biosynthesis in the SER 
+16  
+
+=== PAGE 17 ===
+ 
+The SER is also fundamental for lipid biosynthesis. This takes place in the cytosolic hemilayer of the SER 
+membrane. New lipids will be added to the cytosolic hemilayer of the SER.   
+In the image we can see the process of phospholipid synthesis (the most abundant lipid in our 
+membranes). This is formed by the esterification of fatty acids with glycerol thanks to acid transferases 
+which are present in the SER membrane. These acid transferases generate phosphatidic acid at the 
+beginning, then the phosphate group gets removed and the diacylglycerol, which is the product of the 
+removal, can then be combined with nonpolar groups in different types of phospholipids. In the case of the 
+choline combination, you get phosphatidylcholine. The addition of new phospholipids only happened on 
+the cytosolic hemylayer and they have to be taken to the other hemylayer so it can be a balance through 
+vesicles of transport.  
+ 
+ 
+  
+10. INTEREXCHANGE OF LIPIDS BETWEEN THE ER AND OTHER ORGANELLES   
+We know that phospholipids can flip to the opposite hemilayer and then they can diffuse laterally; they can 
+travel. Phospholipids in the ER get transported to the GA by means of vesicles (this is the typical way of 
+transport). The addition of new phospholipids takes place only in the cytosolic hemilayer of the SER 
+membrane, but some of them will then move to the luminar part hemilayer, to equilibrate both sides. 
+Those phospholipids will flip (flip-flop movement) inside. Once synthesized they can transfer to other 
+organelles by means of vesicles or transporters.   
+  
+Sphingolipids, however, are a bit different because the basic block of sphingolipids is ceramide and it 
+doesn’t travel in vesicles. This is transferred through specific translocators which bring these ceramides 
+17  
+
+=== PAGE 18 ===
+ 
+directly from the SER membrane to the Golgi apparatus. They get sphingolipids such as sphingomyelin and 
+once they have mature sphingomyelin, this goes together with phospholipids in secretion vesicles to reach 
+the plasma membrane.   
+ER may transfer lipids directly to other membrane organelles like mitochondria and peroxisomes, even the 
+plasma membrane. They are lipids of the nuclear envelope, which can diffuse laterally. Since the nuclear 
+envelope is continuous with the ER, the destination is reached (lipid molecules move between the nuclear 
+envelope end the endoplasmic reticulum without needing transport vesicles or carrier proteins) As you can 
+see, there are many ways to transfer lipids from the SER to different membrane compartments: direct, 
+through vesicles, specific translocators…   
+ 
+11. OTHER ER FUNCTIONS: STORAGE OF Ca2+   
+The endoplasmic reticulum can also store Ca2+ from the cytosol and release it suddenly in the ER in 
+response to specific signals. It is able to transport it against gradients (active transport, calcium pump).   
+When looking at the calcium concentration in the intracellular and extracellular medium, we can see that 
+the extracellular medium contains high concentration of calcium. The cytosol, in contrast, contains a very 
+low one. But the lumen of ER is very rich in calcium as well, and this is so because in the membrane of the 
+ER we have some transmembrane proteins which hydrolyse ATP to keep calcium released from the ER. This 
+regulates a lot of physiological processes, for example, muscle contraction.   
+Many signalling pathways culminate in the release of calcium from the ER. This is the case of skeleton 
+muscles. Most of the calcium that overwhelms the cytosol upon muscle fibre contraction comes from the 
+ER, and not from the intracellular space. This is just one example of the many different processes that can 
+be regulated by calcium released from this organelle.   
+KNOWLEDGE TEST:   
+1.​Why is the ER divided into smooth and rough ER (SER, RER)?   
+Because the rough one has ribosomes attached to it and the smooth has not.   
+2.​Which are the main functions of each two parts?   
+The RER is involved in protein metabolism: protein synthesis (beginning of secretory pathway), protein 
+sorting, protein glycosylation and protein folding while SER is involved in lipid metabolism: membrane lipid 
+synthesis, interexchange of lipids between organelles, cholesterol and steroid hormone synthesis and 
+detoxification of organic compounds.   
+18  
+
+=== PAGE 19 ===
+ 
+3.​Proteins synthesized in the ER have a key signature/specific characteristic that is not found in proteins 
+synthesized in the cytosol. Which is it?   
+Glycosylations, which involve adding sugar molecules. This process distinguishes them from cytosolic 
+proteins, which do not undergo glycosylation.   
+4.​What is needed for a protein to be translocated to the ER?   
+A protein needs a signal peptide, which is a sequence of 8-10 hydrophobic aminoacids near the start, to be 
+moved to the ER. This signal starts the process and is recognized and attached by the Signal Recognition 
+Particle (SRP). SRP is located in the cytosol, in the very beginning of the protein.   
+5. The lumen of the RER is very rich in molecular chaperones. What is the function of those proteins? Can 
+you name some examples of them?   
+Chaperons are proteins that assist in the correct folding of other proteins so they get their final 3D 
+configuration. For example, BIP proteins, Calnexin and Calreticulin and PDI.  
+- Molecular chaperones in the RER's lumen facilitate proper protein folding, prevent aggregation of 
+misfolded proteins, and act as a quality control system, identifying and targeting proteins for degradation if 
+they cannot fold correctly.   
+6.​What is the ER stress response?   
+It’s  the reaction that the ER transmits to the nucleus if there are too many misfolded proteins accumulated 
+in the ER. This response can lead to block the expression of more proteins or even be the cause of the 
+suicide of the cell (apoptosis)  
+7.​How does the SER participate in the clearance of toxic compounds?   
+By the enzyme oxidoreduction such as cytochrome p450 system, that metabolizes non-water soluble toxic 
+organic compounds by oxidising them so they become more polar. The hydrophobic to hydrofobic.    
+8.​The SER can transfer membrane lipids to other eukaryotic cell compartments. Can you briefly describe 
+the different mechanisms to do that?   
+They can travel to the membrane through vesicles through exocytosis and endocytosis and by specific 
+translocator (those mainly when the molecules have to be transported to the GA).   
+9.​How does the ER sequester Ca+2 to attain a higher concentration of this ion inside the ER lumen?   
+ER collects Ca2+ from the cytosol, increasing its levels inside. It can release this Ca2+ when signaled to do 
+so. This is due to the presence of pumps that pump calcium against the gradient concentration. Ca2+ in the 
+cytosol is important for many cell functions, including muscle contraction.   
+19  
+
+=== PAGE 20 ===
+ 
+In the membrane of the ER we have some transmembrane proteins which hydrolyze ATP to keep calcium 
+released into the ER.  
+ 
+SURPRISE QUESTIONS 
+1.​ What is the main function of signal sequences and SPR in protein synthesis on the ER?  
+To facilitate ribosome binding to the ER membrane. 
+-  guide recently synthesized proteins across the endoplasmic reticulum (ER) and facilitate their 
+translocation through the ER membrane for folding and processing.   
+2.​ Membrane-bound proteins are integrated into the ER membrane because they posses: 
+Transmembrane hydrophobic domains.   
+3.​ The Unfolded Protein Response (UPR) aims to restore ER homeostasis by: Enhancing protein 
+synthesis  
+4.​ In addition to lipid synthesis the smooth endoplasmic reticulum is also involved in the metabolism 
+of which type of molecule? Xenobiotics (foreign organic compounds)  
+5.​ What is the main function of signal sequences and SRP in protein synthesis of the ER?To  facilitate 
+ribosome to the the ER membrane  
+6.​ Membrane bound proteins are integrated into th ER membrane because they posses: 
+Transmembrane hydrophobic domains  
+20  
